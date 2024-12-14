@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+.header {
+    height: 10%;
+    width: 100%;
+    padding-top: 20px;
+    background-color: brown;
+}
+
+.nav {
+    width: 20%;
+    height: 80%;
+    padding-top: 20px;
+    background-color: cadetblue;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.content {
+    width: 79%;
+    height: 80%;
+    background-image: url(natura.jpg);
+    display: inline-block;
+}
+
+.footer {
+    background-color: chocolate;
+    height: 10%;
+    width: 100%;
+    display: inline-block;
+}
